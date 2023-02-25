@@ -16,7 +16,7 @@ HomePage               |  GamePage               | GameOverPage
 1. Cloning the repository:
 
 ```
-$ git clone https://github.com/ahmedgulabkhan/SnakeGameFlutter.git
+$ git clone https://github.com/workwithhim/flutter-game.git
 ```
 
 2. Open the project:
@@ -28,13 +28,13 @@ $ git clone https://github.com/ahmedgulabkhan/SnakeGameFlutter.git
 `$ flutter run`
 
 ## 🤓 Author(s)
-**Ahmed Gulab Khan** [Profile](https://github.com/ahmedgulabkhan)
+**workwithhim** [Profile](https://github.com/workwithhim)
 
 ## 🔖 License
 ```
 MIT License
 
-Copyright (c) 2020 Ahmed Gulab Khan
+Copyright (c) 2020 workwithhim
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
